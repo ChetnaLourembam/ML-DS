@@ -1,0 +1,101 @@
+﻿Wettercode,description_DE,description_EN,class,subjective classification
+0,Bewölkungsentwicklung nicht beobachtet,Cloudiness development not observed,dry,good
+1,Bewölkung auflösend oder abnehmend,Clouds dissolving or decreasing,dry,good
+2,Gleichbleibende Bewölkung,Constant cloudiness,dry,good
+3,Zunehmende Bewölkung,Increasing cloudiness,dry,good
+4,Sicht durch Rauch oder Asche verringert,Reduced visibility due to smoke or ash,dry,good
+5,Trockener Dunst,Dry haze,dry,good
+6,Verbreiteter Schwebstaub,Widespread airborne dust,dry,good
+7,"Staub- oder Sandfegen, aber kein Sandsturm oder Staubteufel","Dust or sand sweeping, but not a sandstorm or dust devil",dry,good
+8,Staub- oder Sandwirbel (Staubteufel oder Kleintrombe),Dust or sand vortices (dust devil or small trumpet),dry,good
+9,Staub- oder Sandsturm in Sichtweite aber nicht an der Station,Dust or sandstorm in sight but not at the station,dry,good
+10,Feuchter Dunst,Moist haze,moist,good
+11,Flacher Nebel mit geringer Höhenausdehnung in Schwaden oder Bänken,Shallow fog with low height extension in swaths or banks,dry,good
+12,Durchgehende flache Nebelschicht mit geringer Höhenausdehnung,Continuous flat layer of fog with low height expansion,dry,good
+13,Wetterleuchten sichtbar aber kein Donner höbar,Weather lights visible but no thunder can be heard,dry,good
+14,"Niederschlag sichtbar (Fallstreifen), der aber nicht den Boden erreicht","Precipitation visible (fall strip), but it does not reach the ground",moist,moderate
+15,"Niederschlag in der Ferne weiter als 5 km, aber nicht an der Station","Precipitation in the distance further than 5 km, but not at the station",moist,moderate
+16,"Niederschlag näher als 5 km, aber nicht direkt an der Station","Precipitation closer than 5 km, but not directly to the station",dry,moderate
+17,"Gewitter mit hörbarem Donner, aber kein Niederschlag an der Station","Thunderstorm with audible thunder, but no precipitation at the station",dry,moderate
+18,"Markante Böen im Gesichtskreis oder an der Station, aber kein Niederschlag","Marked gusts in the field of vision or at the station, but no precipitation",dry,moderate
+19,Tromben (trichterförmige Wolkenschläuche) oder Tornados in der Nähe oder an der Station,Trombes (funnel-shaped cloud tubes) or tornadoes near or at the station,dry,bad
+20,Sprühregen oder Schneegriesel hat aufgehört,Drizzle or snow has stopped,snow,moderate
+21,Regen hat aufgehört,Rain has stopped,moist,moderate
+22,Schneefall hat aufgehört,Snowfall has stopped,snow,moderate
+23,Schneeregen oder Fall von Eiskörnern hat aufgehört,Sleet or fall of ice grains has stopped,snow,bad
+24,Gefrierender Regen hat aufgehört,Freezing rain has stopped,rain,bad
+25,Regenschauer hat aufgehört,Rain shower has stopped,rain,bad
+26,Schneeschauer hat aufgehört,Snow shower has stopped,snow,bad
+27,Graupel- oder Hagelschauer hat aufgehört,Sleet or hail shower has stopped,rain,bad
+28,Nebel hat sich aufgelöst,Fog has dissipated,dry,good
+29,Gewitter hat aufgehört,Thunderstorm has stopped,dry,good
+30,"Leichter oder mäßiger Sandsturm, Stärke abnehmend","Light or moderate sandstorm, decreasing strength",dry,moderate
+31,"Leichter oder mäßiger Sandsturm, Stärke unverändert","Light or moderate sandstorm, strength unchanged",dry,moderate
+32,"Leichter oder mäßiger Sandsturm, Stärke zunehmend","Light or moderate sandstorm, increasing strength",dry,moderate
+33,"Starker Sandsturm, Stärke abnehmend","Strong sandstorm, decreasing strength",dry,bad
+34,"Starker Sandsturm, Stärke unverändert","Strong sandstorm, strength unchanged",dry,bad
+35,"Starker Sandsturm, Stärke zunehmend","Strong sandstorm, strength increasing",dry,bad
+36,Leichtes oder mäßiges Schneefegen unter Augenhöhe,Light or moderate snow sweeping below eye level,snow,bad
+37,Starkes Schneefegen unter Augenhöhe,Heavy snow sweeping below eye level,snow,bad
+38,Leichtes oder mäßiges Schneetreiben über Augenhöhe,Light or moderate snowfall above eye level,snow,bad
+39,Starkes Schneetreiben über Augenhöhe,Heavy snowfall above eye level,snow,bad
+40,"Nebel in einiger Entfernung, den Beobachter nicht erreichend","Fog in the distance, not reaching the observer",dry,good
+41,Nebel in Schwaden oder Bänken,Fog in swaths or benches,dry,good
+42,"Nebel, Himmel ist erkennbar, Nebel dünner werdend","Fog, sky is recognizable, fog thinning",dry,good
+43,"Nebel, Himmel ist nicht erkennbar, Nebel dünner werdend","Fog, sky is not recognizable, fog thinning",dry,moderate
+44,"Nebel, Himmel ist erkennbar, Nebel unverändert","Fog, sky is recognizable, fog unchanged",dry,moderate
+45,"Nebel, Himmel ist nicht erkennbar, Nebel unverändert","Fog, sky is not recognizable, fog unchanged",dry,moderate
+46,"Nebel, Himmel ist erkennbar, Nebel wird dichter","Fog, sky is recognizable, fog is getting thicker",dry,moderate
+47,"Nebel, Himmel ist nicht erkennbar, Nebel wird dichter","Fog, sky is not recognizable, fog is getting thicker",dry,moderate
+48,"Nebel mit Reifbildung, Himmel ist erkennbar","Fog with frost formation, sky is recognizable",snow,bad
+49,"Nebel mit Reifbildung, Himmel ist nicht erkennbar","Fog with frost formation, sky is not recognizable",snow,bad
+50,Unterbrochener leichter und nicht gefrierender Sprühregen,Interrupted light and non-freezing drizzle,wet,moderate
+51,Leichter und durchgehender nicht gefrierender Sprühregen,Light and continuous non-freezing drizzle,wet,moderate
+52,Unterbrochener mäßiger nicht gefrierender Sprühregen,Intermittent moderate non-freezing drizzle,wet,moderate
+53,Durchgehender mäßiger und nicht gefrierender Sprühregen,Continuous moderate and non-freezing drizzle,wet,moderate
+54,Unterbrochener starker und nicht gefrierender Sprühregen,Interrupted heavy and non-freezing drizzle,wet,bad
+55,Durchgehender starker und nicht gefrierender Sprühregen,Continuous strong and non-freezing drizzle,wet,bad
+56,Leichter und gefrierender Sprühregen,Light and freezing drizzle,wet,bad
+57,Mäßiger oder starker gefrierender Sprühregen,Moderate or severe freezing drizzle,wet,bad
+58,Leichter Sprühregen mit Regen vermischt,Light drizzle mixed with rain,wet,bad
+59,Mäßiger oder starker Sprühregen mit Regen vermischt,Moderate or heavy drizzle mixed with rain,wet,bad
+60,Unterbrochener leichter nicht gefrierender Regen oder einzelne Regentropfen,Interrupted light non-freezing rain or single raindrops,wet,bad
+61,Durchgehender leichter und nicht gefrierender Regen,Continuous light and non-freezing rain,wet,bad
+62,Unterbrochener und mäßiger nicht gefrierender Regen,Intermittent and moderate non-freezing rain,wet,bad
+63,Durchgehender mäßiger nicht gefrierender Regen,Continuous moderate non-freezing rain,wet,bad
+64,Unterbrochener starker und nicht gefrierender Regen,Interrupted heavy and non-freezing rain,wet,bad
+65,Durchgehender starker und nicht gefrierender Regen,Continuous heavy and non-freezing rain,wet,bad
+66,Leichter gefrierender Regen,Light freezing rain,wet,bad
+67,Mäßiger oder starker gefrierender Regen,Moderate or heavy freezing rain,wet,bad
+68,Leichter Schneeregen,Light sleet,snow,moderate
+69,Mäßiger oder starker Schneeregen,Moderate or heavy sleet,snow,bad
+70,Unterbrochener leichter Schneefall oder einzelne Schneeflocken,Interrupted light snowfall or isolated snowflakes,snow,moderate
+71,Durchgehender leichter Schneefall,Light snowfall throughout,snow,moderate
+72,Unterbrochener mäßiger Schneefall,Interrupted moderate snowfall,snow,bad
+73,Durchgehender mäßiger Schneefall,Continuous moderate snowfall,snow,bad
+74,Unterbrochener starker Schneefall,Interrupted heavy snowfall,snow,bad
+75,Durchgehender starker Schneefall,Continuous heavy snowfall,snow,bad
+76,Eisnadeln (Polarschnee) mit oder ohne Nebel,Ice needles (polar snow) with or without fog,snow,bad
+77,Schneegrieseln mit oder ohne Nebel,Snow with or without fog,snow,bad
+78,Schneekristalle mit oder ohne Nebel,Snow crystals with or without fog,snow,bad
+79,Eiskörner (gefrorene Regentropfen),Ice grains (frozen raindrops),snow,bad
+80,Leichter Regenschauer,Light rain shower,wet,moderate
+81,Mäßiger oder starker Regenschauer,Moderate or heavy rain shower,wet,bad
+82,Sehr heftiger Regenschauer,Very heavy rain shower,wet,bad
+83,Leichter Schneeregenschauer,Light sleet shower,wet,moderate
+84,Mäßiger oder starker Schneeregenschauer,Moderate or heavy sleet showers,wet,bad
+85,Leichter Schneeschauer,Light snow shower,wet,moderate
+86,Mäßiger oder starker Schneeschauer,Moderate or heavy snow shower,wet,bad
+87,Leichter Graupelschauer,Light sleet shower,wet,moderate
+88,Mäßiger oder starker Graupelschauer,Moderate or severe sleet shower,wet,bad
+89,Leichter Hagelschauer,Light hailstorm,wet,bad
+90,Mäßiger oder starker Hagelschauer,Moderate or heavy hailstorm,wet,bad
+91,"Gewitter in der letzten Stunde, leichter Regen zum Beobachtungszeitpunkt","Thunderstorms in the last hour, light rain at the time of observation",wet,moderate
+92,"Gewitter in der letzten Stunde, mäßiger oder starker Regen zum Beobachtungszeitpunkt","Thunderstorms in the last hour, moderate or heavy rain at the time of observation",wet,bad
+93,"Gewitter in der letzten Stunde, leichter Schneefall, Schneeregen, Graupel oder Hagel zum Beobachtungszeitpunkt","Thunderstorms in the last hour, light snowfall, sleet, sleet or hail at the time of observation",wet,moderate
+94,"Gewitter in der letzten Stunde, mäßiger oder starker Schneefall, Schneeregen, Graupel oder Hagel zum Beobachtungszeitpunkt","Thunderstorms in the last hour, moderate or heavy snowfall, sleet, sleet or hail at the time of observation",wet,bad
+95,Leichtes oder mäßiges Gewitter mit Regen oder Schnee,Light or moderate thunderstorm with rain or snow,wet,bad
+96,Leichtes oder mäßiges Gewitter mit Graupel oder Hagel,Light or moderate thunderstorm with sleet or hail,wet,bad
+97,Starkes Gewitter mit Regen oder Schnee,Strong thunderstorm with rain or snow,wet,bad
+98,Starkes Gewitter mit Sandsturm,Strong thunderstorm with sandstorm,dry,bad
+99,Starkes Gewitter mit Graupel oder Hagel,Strong thunderstorm with sleet or hail,wet,bad
