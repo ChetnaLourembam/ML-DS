@@ -89,5 +89,5 @@ Regression (Time-Series Sales Forecasting)
 ---
 
 ## Cover Image  
-![Cover Image](cover_image/cover_image.png)
+![Project Cover Image](CoverImage/cover_image.png)
 
