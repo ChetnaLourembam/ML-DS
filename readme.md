@@ -87,7 +87,7 @@ Regression (Time-Series Sales Forecasting)
 - Supports better staffing and production planning during volatile periods.
 
 ## Presentation
-The powerpoint presentation can be found here, [Presntation](4_Presentation/Team8_MLPPT.pptx)
+The powerpoint presentation can be found here, [Presentation](4_Presentation/Team8_MLPPT.pptx)
 
 ---
 
