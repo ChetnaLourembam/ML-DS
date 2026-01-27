@@ -86,6 +86,9 @@ Regression (Time-Series Sales Forecasting)
 - Identifies when simple models are sufficient versus when complexity adds value.  
 - Supports better staffing and production planning during volatile periods.
 
+## Presentation
+The powerpoint presentation can be found here, [Presntation](4_Presentation/Team8_MLPPT.pptx)
+
 ---
 
 ## Cover Image  
